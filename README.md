@@ -32,18 +32,6 @@ stratumport,data,u16,21496
 stratumuser,data,string,bc1q262qeyyhdakrje5qaux8m2a3r4z8sw8vu5mysh.Bitaxe
 ```
 
-Edicion del archivo config.cvs
--Edita:
--datos de ssid, password del wifi
--Datos de piscina donde vas a minar(por defecto es public-pool.io)
--Address de bitcoin.Nombre
--Ejemplo:
-wifissid,data,string,MIWIFI
-wifipass,data,string,MIPASS
-stratumurl,data,string,public-pool.io
-stratumport,data,u16,21496
-stratumuser,data,string,bc1q262qeyyhdakrje5qaux8m2a3r4z8sw8vu5mysh.Bitaxe
-
 ### Una vez editados esos parametros, para flashear:
 
 -Situate en la carpeta del repositorio desde consola
